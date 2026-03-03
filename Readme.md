@@ -32,15 +32,21 @@ Clone the repository:
 
 Bash
 git clone https://github.com/Shreevarthini/Food-recommender.git
+
 cd Food Recommender
+
 Install dependencies:
 
 pip install -r requirements.txt
+
 Configure Environment Variables:
+
 Create a .env file in the root directory:
 
 GROQ_API_KEY=your_groq_api_key_here
+
 Run the Chatbot:
+
 python enhanced_rag_chatbot.py
 
 ### How it Works ###
