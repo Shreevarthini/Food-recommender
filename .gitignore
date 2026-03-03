@@ -1,0 +1,23 @@
+# Credentials and Environment
+.env
+
+# Python Virtual Environments
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and Databases
+*.db
+*.sqlite
+# Optional: Ignore the large JSON if it's proprietary 
+# FoodDataSet.json
+
+# IDE Settings
+.vscode/
+.idea/
+.DS_Store
