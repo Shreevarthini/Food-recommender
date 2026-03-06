@@ -24,7 +24,7 @@ def main():
         
         # Load food data
         global food_items
-        food_items = load_food_data('./FoodDataSet.json')
+        food_items = load_food_data('./data/FoodDataSet.json')
         print(f" Loaded {len(food_items)} food items")
         
         # Create collection for RAG system
