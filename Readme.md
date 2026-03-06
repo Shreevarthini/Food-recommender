@@ -1,4 +1,7 @@
 ### AI-Powered Food Recommendation System (RAG) ###
+
+https://foodrecommendersystem.streamlit.app/
+
 *(Base architecture and dataset provided by IBM Skills Network via Coursera)
 (Modified and enhanced by Shreevarthini to include Groq/Llama 3 integration and local environment optimization.")*
 
